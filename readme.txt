@@ -4,7 +4,7 @@ Donate link: https://mehdimirabi.com
 Tags: share, social, bale, soroush, eitaa, iran, xtra, woocommerce
 Requires at least: 5.0
 Tested up to: 6.5
-Stable tag: 1.3.0
+Stable tag: 1.0.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
@@ -69,18 +69,15 @@ Yes. It is fully RTL optimized.
 
 == Changelog ==
 
-= 1.3.0 =
+= 1.0.1 =
 * Added background wrapper to share area
 * Increased icon sizes (SVG + Font Awesome)
 * Added label “اشتراک”
 * Improved tooltip design
 * Codebase refactoring and cleanup
-
-= 1.2.0 =
 * Added WooCommerce compatibility (`woocommerce_share`)
 * Added copy-link icon
 
-= 1.1.0 =
 * Added custom tooltip system
 * Improved CSS structure
 
@@ -90,7 +87,7 @@ Yes. It is fully RTL optimized.
 
 == Upgrade Notice ==
 
-= 1.3.0 =
+= 1.0.1 =
 Improved UI, larger icons, added share label, better styling.
 
 == License ==
