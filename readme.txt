@@ -1,6 +1,8 @@
 === Extra Iranian Share Buttons ===
 Contributors: mehdimirabi
-Donate link: https://mehdimirabi.com
+Donate: 
+Bitcoin: ``` bc1qyxue9vymqcwamhz5v5ktjjtg2hvsktr2jlslgw ```
+ethereum:  ``` 0xCb874e740fF9480719d99479029A6DacFc24c98E ```
 Tags: share, social, bale, soroush, eitaa, iran, xtra, woocommerce
 Requires at least: 5.0
 Tested up to: 6.5
@@ -77,7 +79,6 @@ Yes. It is fully RTL optimized.
 * Codebase refactoring and cleanup
 * Added WooCommerce compatibility (`woocommerce_share`)
 * Added copy-link icon
-
 * Added custom tooltip system
 * Improved CSS structure
 
